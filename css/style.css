@@ -2,6 +2,8 @@
 
 body {
     font-family: Open Sans, sans-serif;
+    background-image: radial-gradient(circle, #e6e20056, #ffa6008e, #ff00007e);
+    background-attachment: fixed;
 }
 
 header {
@@ -13,7 +15,8 @@ header {
 @media(max-width: 768px){
 
     header {
-        border-color: white;
+        border-color: #b2bcf59a;
+        ;
         margin-bottom: 50px;
      }
 }
